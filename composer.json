@@ -1,11 +1,11 @@
 {
-    "name": "esykioco1/inertia-codeigniter-4",
+    "name": "amiranagram/inertia-codeigniter-4",
     "description": "Inertia server-side adapter for CodeIgniter 4",
     "keywords": [
         "inertia",
         "codeigniter"
     ],
-    "homepage": "https://github.com/esykioco1/inertia-codeigniter-4",
+    "homepage": "https://github.com/amiranagram/inertia-codeigniter-4",
     "license": "MIT",
     "authors": [
         {
